@@ -1,0 +1,89 @@
+- name: John Anderson
+  photo: bio-photo.jpg
+  duration: 2018 - 2020
+  info: PhD Student
+  email: janderson@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
+
+- name: Sarah Mitchell
+  photo: bio-photo.jpg
+  info: Postdoc
+  duration: 2019 - 2021
+  email: smitchell@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
+
+- name: Michael Chen
+  photo: bio-photo.jpg
+  info: PhD Student
+  duration: 2017 - 2022
+  email: mchen@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
+
+- name: Emily Rodriguez
+  photo: bio-photo.jpg
+  info: Research Assistant
+  duration: 2020 - 2021
+  email: erodriguez@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
+
+- name: David Thompson
+  photo: bio-photo.jpg
+  info: PhD Student
+  duration: 2016 - 2021
+  email: dthompson@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
+
+- name: Lisa Patel
+  photo: bio-photo.jpg
+  info: Postdoc
+  duration: 2021 - 2023
+  email: lpatel@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
+
+- name: James Wilson
+  photo: bio-photo.jpg
+  info: PhD Student
+  duration: 2019 - 2024
+  email: jwilson@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
+
+- name: Maria Garcia
+  photo: bio-photo.jpg
+  info: Research Assistant
+  duration: 2022 - 2023
+  email: mgarcia@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
+
+- name: Robert Lee
+  photo: bio-photo.jpg
+  info: PhD Student
+  duration: 2015 - 2020
+  email: rlee@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
+
+- name: Jennifer Taylor
+  photo: bio-photo.jpg
+  info: Postdoc
+  duration: 2020 - 2022
+  email: jtaylor@memphis.edu
+  linkedin: "#"
+  scholar: "#"
+  website: "#"
