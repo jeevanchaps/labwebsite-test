@@ -10,8 +10,8 @@ title: Language and Information Processing (LIPS) Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Language and Information Processing (LIPS) Lab.
-baseurl: ""
-url: ""
+baseurl: "/labwebsite-test"
+url: "https://jeevanchaps.github.io"
 
 include:
   - .htaccess
