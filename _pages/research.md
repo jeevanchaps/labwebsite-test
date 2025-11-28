@@ -13,28 +13,28 @@ We have a wide range of research interests, including the following topics:
 <div markdown="0" style="margin: 30px 0;">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
     <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
-      <h4 style="margin-top: 0; color: #337ab7;">Information Extraction</h4>
-      <p style="margin: 0; color: #666;">Extracting structured information from unstructured text</p>
+      <h4 style="margin-top: 0; color: #337ab7;">✍️ Assessment of Free Responses</h4>
+      <p style="margin: 0; color: #666;">Automated evaluation and feedback for open-ended student responses</p>
     </div>
     <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
-      <h4 style="margin-top: 0; color: #337ab7;">Summarization</h4>
-      <p style="margin: 0; color: #666;">Automatic generation of concise text summaries</p>
+      <h4 style="margin-top: 0; color: #337ab7;">🏗️ Domain Modeling</h4>
+      <p style="margin: 0; color: #666;">Structured representation of knowledge domains and concepts</p>
     </div>
     <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
-      <h4 style="margin-top: 0; color: #337ab7;">Question Answering</h4>
+      <h4 style="margin-top: 0; color: #337ab7;">💻 Automated Authoring of Code Explanations</h4>
+      <p style="margin: 0; color: #666;">Generating natural language explanations of program behavior</p>
+    </div>
+    <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
+      <h4 style="margin-top: 0; color: #337ab7;">🎯 Semantic Similarity</h4>
+      <p style="margin: 0; color: #666;">Measuring and analyzing meaning relationships between texts</p>
+    </div>
+    <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
+      <h4 style="margin-top: 0; color: #337ab7;">❓ Question Answering</h4>
       <p style="margin: 0; color: #666;">Building systems that understand and answer questions</p>
     </div>
     <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
-      <h4 style="margin-top: 0; color: #337ab7;">Intelligent Tutoring Systems</h4>
+      <h4 style="margin-top: 0; color: #337ab7;">🎓 Intelligent Tutoring Systems</h4>
       <p style="margin: 0; color: #666;">AI-powered educational systems for personalized learning</p>
-    </div>
-    <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
-      <h4 style="margin-top: 0; color: #337ab7;">Machine Translation</h4>
-      <p style="margin: 0; color: #666;">Automatic translation between human languages</p>
-    </div>
-    <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
-      <h4 style="margin-top: 0; color: #337ab7;">Search Engines</h4>
-      <p style="margin: 0; color: #666;">Advanced information retrieval and search technologies</p>
     </div>
   </div>
 </div>

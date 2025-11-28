@@ -20,16 +20,30 @@ We have experience in developing solutions and systems capable of addressing the
   <div class="row" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div class="col-md-4 col-sm-6" style="margin-bottom: 20px;">
       <div style="border: 2px solid #e0e0e0; border-radius: 8px; padding: 30px; height: 100%; text-align: center; background-color: #f9f9f9; transition: all 0.3s ease;">
-        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">📝</div>
-        <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Information Extraction</h4>
-        <p style="color: #666; font-size: 14px;">Extracting structured information from unstructured text</p>
+        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">✍️</div>
+        <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Assessment of Free Responses</h4>
+        <p style="color: #666; font-size: 14px;">Automated evaluation and feedback for open-ended student responses</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-6" style="margin-bottom: 20px;">
       <div style="border: 2px solid #e0e0e0; border-radius: 8px; padding: 30px; height: 100%; text-align: center; background-color: #f9f9f9; transition: all 0.3s ease;">
-        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">📄</div>
-        <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Summarization</h4>
-        <p style="color: #666; font-size: 14px;">Automatic generation of concise text summaries</p>
+        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">🏗️</div>
+        <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Domain Modeling</h4>
+        <p style="color: #666; font-size: 14px;">Structured representation of knowledge domains and concepts</p>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-6" style="margin-bottom: 20px;">
+      <div style="border: 2px solid #e0e0e0; border-radius: 8px; padding: 30px; height: 100%; text-align: center; background-color: #f9f9f9; transition: all 0.3s ease;">
+        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">💻</div>
+        <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Automated Authoring of Code Explanations</h4>
+        <p style="color: #666; font-size: 14px;">Generating natural language explanations of program behavior</p>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-6" style="margin-bottom: 20px;">
+      <div style="border: 2px solid #e0e0e0; border-radius: 8px; padding: 30px; height: 100%; text-align: center; background-color: #f9f9f9; transition: all 0.3s ease;">
+        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">🎯</div>
+        <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Semantic Similarity</h4>
+        <p style="color: #666; font-size: 14px;">Measuring and analyzing meaning relationships between texts</p>
       </div>
     </div>
     <div class="col-md-4 col-sm-6" style="margin-bottom: 20px;">
@@ -44,20 +58,6 @@ We have experience in developing solutions and systems capable of addressing the
         <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">🎓</div>
         <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Intelligent Tutoring Systems</h4>
         <p style="color: #666; font-size: 14px;">AI-powered educational systems for personalized learning</p>
-      </div>
-    </div>
-    <div class="col-md-4 col-sm-6" style="margin-bottom: 20px;">
-      <div style="border: 2px solid #e0e0e0; border-radius: 8px; padding: 30px; height: 100%; text-align: center; background-color: #f9f9f9; transition: all 0.3s ease;">
-        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">🌐</div>
-        <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Machine Translation</h4>
-        <p style="color: #666; font-size: 14px;">Automatic translation between human languages</p>
-      </div>
-    </div>
-    <div class="col-md-4 col-sm-6" style="margin-bottom: 20px;">
-      <div style="border: 2px solid #e0e0e0; border-radius: 8px; padding: 30px; height: 100%; text-align: center; background-color: #f9f9f9; transition: all 0.3s ease;">
-        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">🔍</div>
-        <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Search Engines</h4>
-        <p style="color: #666; font-size: 14px;">Advanced information retrieval and search technologies</p>
       </div>
     </div>
   </div>
