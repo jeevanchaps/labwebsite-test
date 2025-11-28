@@ -27,7 +27,7 @@ We have experience in developing solutions and systems capable of addressing the
     </div>
     <div class="col-md-4 col-sm-6" style="margin-bottom: 20px;">
       <div style="border: 2px solid #e0e0e0; border-radius: 8px; padding: 30px; height: 100%; text-align: center; background-color: #f9f9f9; transition: all 0.3s ease;">
-        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">🏗️</div>
+        <div style="font-size: 48px; margin-bottom: 15px; color: #337ab7;">🧩</div>
         <h4 style="color: #333; font-weight: bold; margin-bottom: 10px;">Domain Modeling</h4>
         <p style="color: #666; font-size: 14px;">Structured representation of knowledge domains and concepts</p>
       </div>

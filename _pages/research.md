@@ -17,7 +17,7 @@ We have a wide range of research interests, including the following topics:
       <p style="margin: 0; color: #666;">Automated evaluation and feedback for open-ended student responses</p>
     </div>
     <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
-      <h4 style="margin-top: 0; color: #337ab7;">🏗️ Domain Modeling</h4>
+      <h4 style="margin-top: 0; color: #337ab7;">🧩 Domain Modeling</h4>
       <p style="margin: 0; color: #666;">Structured representation of knowledge domains and concepts</p>
     </div>
     <div style="padding: 20px; background-color: #f9f9f9; border-left: 4px solid #337ab7;">
