@@ -23,7 +23,7 @@ The LIPS Lab is located on the third floor of the Edwards Research and Innovatio
 **Dr. Vasile Rus**  
 Jack and Jane Morris Professor  
 Director, LIPS Lab  
-Email: [vrus@memphis.edu](mailto:vrus@memphis.edu)
+Email: vrus at memphis dot edu
 
 ## Get in Touch
 
