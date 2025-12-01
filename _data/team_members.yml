@@ -2,9 +2,9 @@
   photo: bio-photo.jpg
   info: Director LIPS LAB <br> Jack and Jane Morris Professor
   email: vrus@memphis.edu
-  linkedin: "#"
-  scholar: "#"
-  website: "#"
+  linkedin: "https://www.linkedin.com/in/vasile-rus-3157722a/"
+  scholar: "https://scholar.google.com/citations?user=k8jqnc8AAAAJ&hl=en&oi=ao"
+  website: "https://sites.google.com/view/dr-vasile-rus/home"
   number_educ: 0
   education1:
   education2:
@@ -13,10 +13,10 @@
 - name: Jeevan Chapagain
   photo: bio-photo.jpg
   info: PhD Candidate
-  email: jchapagain@memphis.edu
-  linkedin: "#"
-  scholar: "#"
-  website: "#"
+  email: 
+  linkedin: "https://www.linkedin.com/in/jeevanchaps/"
+  scholar: "https://scholar.google.com/citations?user=Sckmh_QAAAAJ"
+  website: "https://jeevanchaps.github.io/"
   number_educ: 0
   education1:
   education2:
